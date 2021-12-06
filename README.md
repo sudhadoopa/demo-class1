@@ -1,2 +1,2 @@
-# demo-class1
-This is my first demo class
+This is my demo class for the virtual mahine
+This is to learn
